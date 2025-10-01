@@ -16,7 +16,7 @@ It’s designed to be faster than Windows Explorer search, lightweight, and user
 ---
 
 ## 📥 Download
-👉 [Download the latest release](https://github.com/YOUR_USERNAME/RAI-Search/releases)
+👉 [Download the latest release](https://github.com/RAI_Official/RAISearcher/releases)
 
 ---
 
